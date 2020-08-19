@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "NorthwindLocalDB": "Server=(LocalDB)\\MSSQLLocalDB;Database=Northwind;Trusted_Connection=Yes;"
+  }
+}
